@@ -30,7 +30,7 @@ requirements:
     - requests
 
 about:
-  home: https://github.com/bmeyers/solar-data-tools
+  home: https://github.com/slacgismo/solar-data-tools
   license: BSD
   license_family: BSD
   license_file:
